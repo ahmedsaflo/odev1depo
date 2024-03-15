@@ -4,5 +4,6 @@
 /**
  * 
  */
-module Odev1 {
+module deneme {
+	requires org.json;
 }
